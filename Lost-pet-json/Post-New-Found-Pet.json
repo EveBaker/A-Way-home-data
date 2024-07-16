@@ -1,0 +1,280 @@
+[
+  {
+    "id": "5f2d5cba0c742d5151901db1",
+    "typePost":true,
+    "userLogin": "placeholder1@gmail.com",
+    "username": "Cystal",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "type": "Dog",
+    "name":"Atlas",
+    "sex": "male",
+    "breed": "Border Collie/Blue Heeler mix",
+    "tags": [
+      "Border Collie",
+      "Blue Heeler",
+      "male",
+      "Black",
+      "White"
+    ],
+    "photos": [
+      "/pets/atlas.png"
+    ],
+    "address": {
+      "country": "United States",
+      "city": "Clarmore, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  },
+  {
+    "id": "5f2d5cba0c742d5151901db2",
+    "typePost": true,
+    "userLogin": "placeholder2@gmail.com",
+    "username": "Cystal",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "type": "Dog",
+    "name":"Lulu",
+    "sex": "Female",
+    "breed": "Maltese mix",
+    "tags": [
+      "Maltese",
+      "Female",
+      "Black",
+      "White"
+    ],
+    "photos": [
+      "/pets/Lulu.png"
+    ],
+    "address": {
+      "country": "United States",
+      "city": "Clarmore, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  },
+  {
+    "id": "5f2d5cba0c742d5151901db3",
+    "typePost": true,
+    "userLogin": "placeholder3@gmail.com",
+    "username": "Crystal",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "type": "Cat",
+    "name":"Gray",
+    "sex": "Male",
+    "breed": "Domestic long hair",
+    "tags": [
+      "Domestic long hair",
+      "Male",
+      "Brown"
+    ],
+    "photos": [
+      "/pets/Gray.png"
+    ],
+    "address": {
+      "country": "United States",
+      "city": "Clarmore, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  },
+  {
+    "id": "5f2d5cba0c742d5151901db4",
+    "typePost": true,
+    "userLogin": "placeholder4@gmail.com",
+    "username": "Jamie",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "type": "Cat",
+    "name":"Lucy",
+    "sex": "Female",
+    "breed": "Domestic long hair",
+    "tags": [
+      "Domestic long hair",
+      "Female",
+      "Gray"
+    ],
+    "photos": [
+      "/pets/Lucy.png"
+    ],
+    "address": {
+      "country": "United States",
+      "city": "Tulsa, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  },
+  {
+    "id": "5f2d5cba0c742d5151901db5",
+    "typePost": true,
+    "userLogin": "placeholder5@gmail.com",
+    "username": "Jamie",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "type": "Cat",
+    "name":"Timmy",
+    "sex": "Male",
+    "breed": "Domestic short hair,",
+    "tags": [
+      "Domestic short hair",
+      "Male",
+      "Orange",
+      "White"
+    ],
+    "photos": [
+      "/pets/Timmy.png"
+    ],
+    "address": {
+      "country": "United States",
+      "city": "Tulsa, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  },
+  {
+    "id": "5f2d5cba0c742d5151901db6",
+    "typePost": true,
+    "userLogin": "placeholder6@gmail.com",
+    "username": "Jamie",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "type": "Cat",
+    "name":"Ukiyo",
+    "sex": "Female",
+    "breed": "Siamese,",
+    "tags": [
+      "Siamese",
+      "Female",
+      "Tan",
+      "Black"
+    ],
+    "photos": [
+      "/pets/Ukiyo.png"
+    ],
+    "address": {
+      "country": "United States",
+      "city": "Tulsa, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  },
+  {
+    "id": "5f2d5cba0c742d5151901db7",
+    "typePost": true,
+    "userLogin": "placeholder7@gmail.com",
+    "username": "Jamie",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "type": "Cat",
+    "name":"Milo",
+    "sex": "Male",
+    "breed": "Siamese,",
+    "tags": [
+      "Siamese",
+      "Male",
+      "Tan",
+      "Black"
+    ],
+    "photos": [
+      "/pets/Milo.png"
+    ],
+    "address": {
+      "country": "United States",
+      "city": "Tulsa, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  },
+  {
+    "id": "5f2d5cba0c742d5151901db8",
+    "typePost": true,
+    "userLogin": "placeholder8@gmail.com",
+    "username": "Eve Baker",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "name": "Gracie",
+    "type": "cat",
+    "sex": "Female",
+    "breed": "Tabby/Domestic short hair",
+    "tags": [
+      "Domestic short hair",
+      "Female",
+      "Tabby",
+      "Gray"
+    ],
+    "photos": [
+      "/pets/Gracie.png"
+    ],
+    "address": {
+      "country": "Undited States",
+      "city": "Mannford, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  },
+  {
+    "id": "5f2d5cba0c742d5151901db9",
+    "typePost": false,
+    "userLogin": "placeholder8@gmail.com",
+    "username": "Casey Chase",
+    "avatar": "",
+    "datePost": "2020-08-07 13:52:58",
+    "type": "cat",
+    "sex": "Female",
+    "breed": "Tuxedo/Domestic long hair",
+    "tags": [
+      "Tuxedo",
+      "Domestic long hair",
+      "Female",
+      "Black",
+      "White"
+    ],
+    "photos": [
+      "/pets/Josie.png"
+    ],
+    "address": {
+      "country": "United States",
+      "city": "Mannford, OK",
+      "street": "",
+      "building": ""
+    },
+    "place-holder-location": {
+      "lon": 0.0,
+      "lat": 0.0
+    }
+  }
+]
