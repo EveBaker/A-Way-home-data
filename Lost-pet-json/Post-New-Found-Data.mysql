@@ -1,0 +1,33 @@
+-- Create the main table
+CREATE TABLE Posts (
+    id VARCHAR(255) PRIMARY KEY,
+    typePost BOOLEAN,
+    userLogin VARCHAR(255),
+    username VARCHAR(255),
+    avatar VARCHAR(255),
+    datePost DATETIME,
+    type VARCHAR(50),
+    name VARCHAR(255),
+    sex VARCHAR(10),
+    breed VARCHAR(255),
+    country VARCHAR(255),
+    city VARCHAR(255),
+    street VARCHAR(255),
+    building VARCHAR(255)
+);
+
+-- Create a table for tags
+CREATE TABLE Tags (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    postId VARCHAR(255),
+    tag VARCHAR(50),
+    FOREIGN KEY (postId) REFERENCES Posts(id)
+);
+
+-- Create a table for photos
+CREATE TABLE Photos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    postId VARCHAR(255),
+    photo VARCHAR(255),
+    FOREIGN KEY (postId) REFERENCES Posts(id)
+);
