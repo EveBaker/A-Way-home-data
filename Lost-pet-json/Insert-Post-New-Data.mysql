@@ -1,0 +1,62 @@
+-- Insert data into Posts table
+INSERT INTO Posts (id, typePost, userLogin, username, avatar, datePost, type, name, sex, breed, country, city, street, building) VALUES
+('5f2d5cba0c742d5151901db1', false, 'placeholder1@gmail.com', 'Cystal', '', '2020-08-07 13:52:58', 'Dog', 'Atlas', 'male', 'Border Collie/Blue Heeler mix', 'United States', 'Clarmore, OK', '', ''),
+('5f2d5cba0c742d5151901db2', false, 'placeholder2@gmail.com', 'Cystal', '', '2020-08-07 13:52:58', 'Dog', 'Lulu', 'Female', 'Maltese mix', 'United States', 'Clarmore, OK', '', ''),
+('5f2d5cba0c742d5151901db3', false, 'placeholder3@gmail.com', 'Crystal', '', '2020-08-07 13:52:58', 'Cat', 'Gray', 'Male', 'Domestic long hair', 'United States', 'Clarmore, OK', '', ''),
+('5f2d5cba0c742d5151901db4', false, 'placeholder4@gmail.com', 'Jamie', '', '2020-08-07 13:52:58', 'Cat', 'Lucy', 'Female', 'Domestic long hair', 'United States', 'Tulsa, OK', '', ''),
+('5f2d5cba0c742d5151901db5', false, 'placeholder5@gmail.com', 'Jamie', '', '2020-08-07 13:52:58', 'Cat', 'Timmy', 'Male', 'Domestic short hair', 'United States', 'Tulsa, OK', '', ''),
+('5f2d5cba0c742d5151901db6', false, 'placeholder6@gmail.com', 'Jamie', '', '2020-08-07 13:52:58', 'Cat', 'Ukiyo', 'Female', 'Siamese', 'United States', 'Tulsa, OK', '', ''),
+('5f2d5cba0c742d5151901db7', false, 'placeholder7@gmail.com', 'Jamie', '', '2020-08-07 13:52:58', 'Cat', 'Milo', 'Male', 'Siamese', 'United States', 'Tulsa, OK', '', ''),
+('5f2d5cba0c742d5151901db8', false, 'placeholder8@gmail.com', 'Eve Baker', '', '2020-08-07 13:52:58', 'Cat', 'Gracie', 'Female', 'Tabby/Domestic short hair', 'United States', 'Mannford, OK', '', ''),
+('5f2d5cba0c742d5151901db9', false, 'placeholder9@gmail.com', 'Casey Chase', '', '2020-08-07 13:52:58', 'Cat', 'Josie', 'Female', 'Tuxedo/Domestic long hair', 'United States', 'Mannford, OK', '', '');
+
+-- Insert data into Tags table
+INSERT INTO Tags (postId, tag) VALUES
+('5f2d5cba0c742d5151901db1', 'Border Collie'),
+('5f2d5cba0c742d5151901db1', 'Blue Heeler'),
+('5f2d5cba0c742d5151901db1', 'male'),
+('5f2d5cba0c742d5151901db1', 'Black'),
+('5f2d5cba0c742d5151901db1', 'White'),
+('5f2d5cba0c742d5151901db2', 'Maltese'),
+('5f2d5cba0c742d5151901db2', 'Female'),
+('5f2d5cba0c742d5151901db2', 'Black'),
+('5f2d5cba0c742d5151901db2', 'White'),
+('5f2d5cba0c742d5151901db3', 'Domestic long hair'),
+('5f2d5cba0c742d5151901db3', 'Male'),
+('5f2d5cba0c742d5151901db3', 'Brown'),
+('5f2d5cba0c742d5151901db4', 'Domestic long hair'),
+('5f2d5cba0c742d5151901db4', 'Female'),
+('5f2d5cba0c742d5151901db4', 'Gray'),
+('5f2d5cba0c742d5151901db5', 'Domestic short hair'),
+('5f2d5cba0c742d5151901db5', 'Male'),
+('5f2d5cba0c742d5151901db5', 'Orange'),
+('5f2d5cba0c742d5151901db5', 'White'),
+('5f2d5cba0c742d5151901db6', 'Siamese'),
+('5f2d5cba0c742d5151901db6', 'Female'),
+('5f2d5cba0c742d5151901db6', 'Tan'),
+('5f2d5cba0c742d5151901db6', 'Black'),
+('5f2d5cba0c742d5151901db7', 'Siamese'),
+('5f2d5cba0c742d5151901db7', 'Male'),
+('5f2d5cba0c742d5151901db7', 'Tan'),
+('5f2d5cba0c742d5151901db7', 'Black'),
+('5f2d5cba0c742d5151901db8', 'Domestic short hair'),
+('5f2d5cba0c742d5151901db8', 'Female'),
+('5f2d5cba0c742d5151901db8', 'Tabby'),
+('5f2d5cba0c742d5151901db8', 'Gray'),
+('5f2d5cba0c742d5151901db9', 'Tuxedo'),
+('5f2d5cba0c742d5151901db9', 'Domestic long hair'),
+('5f2d5cba0c742d5151901db9', 'Female'),
+('5f2d5cba0c742d5151901db9', 'Black'),
+('5f2d5cba0c742d5151901db9', 'White');
+
+-- Insert data into Photos table
+INSERT INTO Photos (postId, photo) VALUES
+('5f2d5cba0c742d5151901db1', '/pets/atlas.png'),
+('5f2d5cba0c742d5151901db2', '/pets/Lulu.png'),
+('5f2d5cba0c742d5151901db3', '/pets/Gray.png'),
+('5f2d5cba0c742d5151901db4', '/pets/Lucy.png'),
+('5f2d5cba0c742d5151901db5', '/pets/Timmy.png'),
+('5f2d5cba0c742d5151901db6', '/pets/Ukiyo.png'),
+('5f2d5cba0c742d5151901db7', '/pets/Milo.png'),
+('5f2d5cba0c742d5151901db8', '/pets/Gracie.png'),
+('5f2d5cba0c742d5151901db9', '/pets/Josie.png');
