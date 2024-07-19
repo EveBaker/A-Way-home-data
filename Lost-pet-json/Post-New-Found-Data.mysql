@@ -12,16 +12,6 @@ CREATE TABLE Posts (
     breed VARCHAR(255),
     country VARCHAR(255),
     city VARCHAR(255),
-    street VARCHAR(255),
-    building VARCHAR(255)
-);
-
--- Create a table for tags
-CREATE TABLE Tags (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    postId VARCHAR(255),
-    tag VARCHAR(50),
-    FOREIGN KEY (postId) REFERENCES Posts(id)
 );
 
 -- Create a table for photos
