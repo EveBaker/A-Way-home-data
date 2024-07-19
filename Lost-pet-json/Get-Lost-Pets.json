@@ -14,25 +14,12 @@
         "name": "Atlas",
         "sex": "male",
         "breed": "Border Collie/Blue Heeler mix",
-        "tags": [
-          "Border Collie",
-          "Blue Heeler",
-          "male",
-          "Black",
-          "White"
-        ],
         "photos": [
           "/pets/atlas.png"
         ],
         "address": {
           "country": "United States",
-          "city": "Clarmore, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
+          "city": "Clarmore, OK"
         }
       },
       {
@@ -46,24 +33,12 @@
         "name": "Lulu",
         "sex": "Female",
         "breed": "Maltese mix",
-        "tags": [
-          "Maltese",
-          "Female",
-          "Black",
-          "White"
-        ],
         "photos": [
           "/pets/Lulu.png"
         ],
         "address": {
           "country": "United States",
-          "city": "Clarmore, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
+          "city": "Clarmore, OK"
         }
       },
       {
@@ -77,23 +52,12 @@
         "name": "Gray",
         "sex": "Male",
         "breed": "Domestic long hair",
-        "tags": [
-          "Domestic long hair",
-          "Male",
-          "Brown"
-        ],
         "photos": [
           "/pets/Gray.png"
         ],
         "address": {
           "country": "United States",
-          "city": "Clarmore, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
+          "city": "Clarmore, OK"
         }
       },
       {
@@ -107,23 +71,12 @@
         "name": "Lucy",
         "sex": "Female",
         "breed": "Domestic long hair",
-        "tags": [
-          "Domestic long hair",
-          "Female",
-          "Gray"
-        ],
         "photos": [
           "/pets/Lucy.png"
         ],
         "address": {
           "country": "United States",
-          "city": "Tulsa, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
+          "city": "Tulsa, OK"
         }
       },
       {
@@ -137,24 +90,12 @@
         "name": "Timmy",
         "sex": "Male",
         "breed": "Domestic short hair",
-        "tags": [
-          "Domestic short hair",
-          "Male",
-          "Orange",
-          "White"
-        ],
         "photos": [
           "/pets/Timmy.png"
         ],
         "address": {
           "country": "United States",
-          "city": "Tulsa, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
+          "city": "Tulsa, OK"
         }
       },
       {
@@ -168,25 +109,9 @@
         "name": "Ukiyo",
         "sex": "Female",
         "breed": "Siamese",
-        "tags": [
-          "Siamese",
-          "Female",
-          "Tan",
-          "Black"
-        ],
         "photos": [
           "/pets/Ukiyo.png"
-        ],
-        "address": {
-          "country": "United States",
-          "city": "Tulsa, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
-        }
+        ]
       },
       {
         "id": "5f2d5cba0c742d5151901db7",
@@ -199,24 +124,12 @@
         "name": "Milo",
         "sex": "Male",
         "breed": "Siamese",
-        "tags": [
-          "Siamese",
-          "Male",
-          "Tan",
-          "Black"
-        ],
         "photos": [
           "/pets/Milo.png"
         ],
         "address": {
           "country": "United States",
-          "city": "Tulsa, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
+          "city": "Tulsa, OK"
         }
       },
       {
@@ -230,24 +143,12 @@
         "type": "Cat",
         "sex": "Female",
         "breed": "Tabby/Domestic short hair",
-        "tags": [
-          "Domestic short hair",
-          "Female",
-          "Tabby",
-          "Gray"
-        ],
         "photos": [
           "/pets/Gracie.png"
         ],
         "address": {
           "country": "United States",
-          "city": "Mannford, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
+          "city": "Mannford, OK"
         }
       },
       {
@@ -260,25 +161,12 @@
         "type": "Cat",
         "sex": "Female",
         "breed": "Tuxedo/Domestic long hair",
-        "tags": [
-          "Tuxedo",
-          "Domestic long hair",
-          "Female",
-          "Black",
-          "White"
-        ],
         "photos": [
           "/pets/Josie.png"
         ],
         "address": {
           "country": "United States",
-          "city": "Mannford, OK",
-          "street": "",
-          "building": ""
-        },
-        "place-holder-location": {
-          "lon": 34.79583,
-          "lat": 31.96285
+          "city": "Mannford, OK"
         }
       }
     ]
